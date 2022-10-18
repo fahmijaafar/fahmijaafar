@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfahmijaafar
-- 👀 I’m interested in Web & Mobile Development
+- 👀 I’m interested in Web & Mobile Development, Automation
 - 🌱 I’m currently learning Python, Ansible, React
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me by whatsappp at +60136343715
