@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahmijaafar
 - 👀 I’m interested in Web & Mobile Development, Automation
-- 🌱 I’m currently focusing on Python, Ansible, React
+- 🌱 I’m currently focusing on C#, .NET, Python, Ansible, React
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me by whatsappp at +60136343715
 - ~"yes me lord? what is it? more work?" - Peasants
